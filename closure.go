@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	//even name variable using const, stil changed by variable name in increment func
 	name := "Eko"
 	counter := 0
 
